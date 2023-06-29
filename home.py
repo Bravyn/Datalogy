@@ -3,10 +3,10 @@ from analogies import analogies
 from data_fuels_science import data_fuel
 from data_cleaning import data_cleaning
 from styles import format_list_with_css, format_title,format_subtitle, colors
+from contacts import contact_me
 
 format_title("DATALOGY", colors["royal_blue"])
-
-
+contact_me()
 format_subtitle("Learn Data Science by Analogy.", colors["navy_blue"])
 
 def show_analogies(analogies = analogies):
