@@ -5,14 +5,7 @@ from data_cleaning import data_cleaning
 from styles import format_list_with_css, format_title,format_subtitle, colors
 
 format_title("DATALOGY", colors["royal_blue"])
-st.caption(":red Created by Ian Bravyn Abwoto.")
-with st.expander(":blue[Contact Me]"):
-    st.caption("Email: ianbravynsa@gmail.com")
-    st.caption("Phone: :blue[+254792744154]")
-    st.caption("Share website url")
-    st.code("datalogy.streamlit.app")
-    feedback = st.text_input("Send me feedback as sms")
-    name = st.text_input("Name")
+
 
 format_subtitle("Learn Data Science by Analogy.", colors["navy_blue"])
 
