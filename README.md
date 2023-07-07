@@ -35,7 +35,7 @@ Datalogy welcomes contributions from the community to expand and improve the ana
 
 ## Support
 
-For any questions, suggestions, or issues related to Datalogy, please reach out to our support team by email at [ianbravyns@gmail.com](mailto:ianbravyns@gmail.com) or visit our community forum at [datalogyforum.com](https://www.datalogyforum.com).
+For any questions, suggestions, or issues related to Datalogy, please reach out to our support team by email at [ianbravyns@gmail.com](mailto:ianbravyns@gmail.com).
 
 ## License
 
